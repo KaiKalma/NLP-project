@@ -1,0 +1,10 @@
+0. Classic Glazed
+1. Chocolate Frosted
+2. Strawberry Jam
+3. Maple Bacon
+4. Blueberry Cake
+5. Vanilla Cream
+6. Old Fashioned
+7. Cinnamon Sugar
+8. Apple Fritter
+9. Jelly Filled
